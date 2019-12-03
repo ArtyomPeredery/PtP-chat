@@ -1,0 +1,14 @@
+C:\Users\Artem\Desktop\csan-lab-3-master\chat\chat\bin\Debug\chat.exe.config
+C:\Users\Artem\Desktop\csan-lab-3-master\chat\chat\bin\Debug\chat.exe
+C:\Users\Artem\Desktop\csan-lab-3-master\chat\chat\bin\Debug\chat.pdb
+C:\Users\Artem\Desktop\csan-lab-3-master\chat\chat\obj\Debug\chat.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\csan-lab-3-master\chat\chat\obj\Debug\chat.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\csan-lab-3-master\chat\chat\obj\Debug\chat.exe
+C:\Users\Artem\Desktop\csan-lab-3-master\chat\chat\obj\Debug\chat.pdb
+C:\Users\Artem\Desktop\CHAT3\chat\chat\bin\Debug\chat.exe.config
+C:\Users\Artem\Desktop\CHAT3\chat\chat\bin\Debug\chat.exe
+C:\Users\Artem\Desktop\CHAT3\chat\chat\bin\Debug\chat.pdb
+C:\Users\Artem\Desktop\CHAT3\chat\chat\obj\Debug\chat.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\CHAT3\chat\chat\obj\Debug\chat.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\CHAT3\chat\chat\obj\Debug\chat.exe
+C:\Users\Artem\Desktop\CHAT3\chat\chat\obj\Debug\chat.pdb
